@@ -1,0 +1,35 @@
+body
+{
+	background: lightblue;
+	background-image:url("background-windows-10..jpg") ;
+	background-position: center;
+	background-size: cover;
+}
+
+	.LoginDiv1 , .LoginDiv2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+	#player1_name , #player2_name
+	{
+		display: inline-block;
+		margin-left: 20px;
+	}
+	#Number1 , #Number2
+	{
+		width: 60%;
+	}
+	#output
+	{
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+	}
+	
